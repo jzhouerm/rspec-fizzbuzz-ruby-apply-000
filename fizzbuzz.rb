@@ -11,4 +11,4 @@ def fizzbuzz(int)
     nil
   end
 end
-fizzbuzz
+fizzbuzz(r)
